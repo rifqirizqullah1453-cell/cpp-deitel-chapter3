@@ -1,0 +1,8 @@
+# compiled programs (macOS)
+fig03_01
+fig03_01_float
+fig03_02
+fig03_03
+*.o
+*.out
+.DS_Store
